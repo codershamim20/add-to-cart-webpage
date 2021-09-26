@@ -1,0 +1,98 @@
+[
+    {
+      "id":1,
+      "name":"Jhankar Mahbub",
+      "designation":"CEO & Founder",
+      "salary":100000,
+      "country":"USA",
+      "img":"https://files.fm/codershamim20/f/uk37wnhj4"
+    },
+    {
+      "id":2,
+      "name":"Rasel Ahmed",
+      "designation":"Product Manager",
+      "salary":99000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/5YfGcRL"
+    },
+    {
+      "id":3,
+      "name":"Karina Islam",
+      "designation":"Advisor",
+      "salary":99000,
+      "country":"USA",
+      "img":"https://ibb.co/M6DL0T5"
+    },
+    {
+      "id":4,
+      "name":"Sufi Ahmed Hamim",
+      "designation":"Product Designer",
+      "salary":98000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/F02CN8w"
+    },
+    {
+      "id":5,
+      "name":"Rezaul Karim",
+      "designation":"Product Manager",
+      "salary":98000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/4Fc27PK"
+    },
+    {
+      "id":6,
+      "name":"Muktadir Hassan",
+      "designation":"Web Developer",
+      "salary":95000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/mRcP0cX"
+    },
+    {
+      "id":7,
+      "name":"Mezbaul Abedin Forhan",
+      "designation":"Web Developer",
+      "salary":90000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/pLjSDhC"
+    },
+    {
+      "id":8,
+      "name":"Emdadul Hoque Tareque",
+      "designation":"Assistant Manager",
+      "salary":95000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/ZHWrPTk"
+    },
+    {
+      "id":9,
+      "name":"Roky Das",
+      "designation":"Web Developer",
+      "salary":90000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/F6fMZw7"
+    },
+    {
+      "id":10,
+      "name":"Md. Gias Uddin",
+      "designation":"Web Developer",
+      "salary":90000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/KjqcLBR"
+    },
+    {
+      "id":11,
+      "name":"MD Sakib Ahmed",
+      "designation":"Web Develope",
+      "salary":90000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/qnfMWFW"
+    },
+    {
+      "id":12,
+      "name":"Shahriar Hoq Shubho",
+      "designation":"Job Placement Executive",
+      "salary":90000,
+      "country":"Bangladesh",
+      "img":"https://ibb.co/7vbTvnd"
+    }
+  ]
