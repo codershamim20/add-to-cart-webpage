@@ -5,7 +5,7 @@ const Card = (props) => {
     // console.log(props.card)
     return (
         <div className="col-md-4">
-            <div className="card mb-3 h-100" >
+            <div className="card mb-3 h-100 bg-secondary" >
   <div className="row  ">
     <div className="col-md-5">
       <img src={img} className="img-fluid rounded-start" alt="..."/>

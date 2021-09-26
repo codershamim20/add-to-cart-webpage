@@ -5,7 +5,7 @@ const Cart = (props) => {
     const totalReducer=(prevValue,currentValue)=>prevValue+currentValue.salary
     const Total=cart.reduce(totalReducer,0)
     return (
-        <div>
+        <div className='bg-secondary rounded p-3'>
             <h2> Total Hero Added : {cart.length}</h2>
             <ul>
                 {
