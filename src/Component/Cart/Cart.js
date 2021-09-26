@@ -12,7 +12,7 @@ const Cart = (props) => {
                     cart.map(iteam => <li>{ iteam.name}</li>)
                 }
             </ul>
-            <h4>Total cost to build the Team: { Total}</h4>
+            <h4>Total cost for the Team: { Total}</h4>
         </div>
     );
 };
